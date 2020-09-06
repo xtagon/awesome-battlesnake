@@ -12,6 +12,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Game Rules and Logic](#game-rules-and-logic)
 - [Machine Learning](#machine-learning)
 - [Starter Projects](#starter-projects)
+- [Third-Party Arenas](#third-party-arenas)
 - [Miscellaneous](#miscellaneous)
 
 ## Battlesnakes
@@ -73,10 +74,13 @@ Battlesnake has an [official list of starter projects](https://docs.battlesnake.
 those from the community. This section is reserved for any notable project
 templates that haven't made that list.
 
+## Third-Party Arenas
+
+- [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
+- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
+
 ## Miscellaneous
 
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [devinc13/BattlesnakeTester](https://github.com/devinc13/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
-- [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
-- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
