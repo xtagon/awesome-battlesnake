@@ -14,7 +14,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Game Rules and Logic
 
-- [Battlesnake Rules and Logic](https://github.com/BattlesnakeOfficial/rules) (The official rules of Battlesnake)
+- [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
 - [Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
 
 ## Machine Learning
