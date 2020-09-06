@@ -48,6 +48,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) (Battlesnake 2019 AI written in NodeJS.)
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) (Battlesnakes for 2018, 2019 and 2020)
+- [xtagon/nagini](https://github.com/xtagon/nagini) (Battlesnake AI written in Elixir, 2019)
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) (Java BattleSnake)
 
 ## Game Rules and Logic
