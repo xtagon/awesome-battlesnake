@@ -11,6 +11,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Battlesnakes](#battlesnakes)
 - [Game Rules and Logic](#game-rules-and-logic)
 - [Machine Learning](#machine-learning)
+- [Starter Projects](#starter-projects)
 - [Miscellaneous](#miscellaneous)
 
 ## Battlesnakes
@@ -57,6 +58,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Machine Learning
 
 - [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
+
+## Starter Projects
+
+Battlesnake has an official list of starter projects, as well as community starter projects:
+
+https://docs.battlesnake.com/references/starter-projects
 
 ## Miscellaneous
 
