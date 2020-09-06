@@ -61,9 +61,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Starter Projects
 
-Battlesnake has an official list of starter projects, as well as community starter projects:
-
-https://docs.battlesnake.com/references/starter-projects
+Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
+those from the community. This section is reserved for any notable project
+templates that haven't made that list.
 
 ## Miscellaneous
 
