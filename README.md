@@ -59,6 +59,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Machine Learning
 
 - [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
+- [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) - (Simple environment for machine learning training, and A* for food finding)
 
 ## Starter Projects
 
