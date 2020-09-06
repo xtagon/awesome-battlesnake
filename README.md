@@ -15,12 +15,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Game Rules and Logic
 
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
-- [Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
+- [xtagon/Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
 
 ## Machine Learning
 
-- [Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
+- [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
 
 ## Miscellaneous
 
-- [Battlesnake Board Generator](https://lworkman.github.io/battle-snake-board-generator/) (View/edit boards, also has ability to upload and download board states as JSON)
+- [lworkman/Battlesnake Board Generator](https://lworkman.github.io/battle-snake-board-generator/) (View/edit boards, also has ability to upload and download board states as JSON)
