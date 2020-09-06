@@ -42,7 +42,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
 - [nbw/battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) (A bounty battlesnake written in Crystal)
 - [pambrose/battlesnake-examples](https://github.com/pambrose/battlesnake-examples) (Battlesnake Quickstart Snake Examples)
+- [rdbrck/battlesnake-2017-btas](https://github.com/rdbrck/battlesnake-2017-btas) (Better than Aleksiy's Snake, winner of Battlesnake 2017 Advanced Division)
+- [rdbrck/bountysnake2017](https://github.com/rdbrck/bountysnake2017) (Redbrick's bounty snake in 2017, went 42-3, see [making of blog](https://rdbrck.com/news/building-bounty-snake-post-mortem/))
+- [rdbrck/bountysnake2018](https://github.com/rdbrck/bountysnake2018) (Redbrick's bounty snake in 2018, went 71-3, see [making of blog](https://rdbrck.com/news/son-robosnake-aggressive-bounty-snake/) and [design talk](https://www.youtube.com/watch?v=vlEgqnxEWdc))
 - [ronaldosvieira/cobrinha](https://github.com/ronaldosvieira/cobrinha) (Playing Battlesnake with reinforcement learning)
+- [smallsco/robosnake](https://github.com/smallsco/robosnake) (A port of Redbrick's Robosnake to the 2019 API with some minor enhancements)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)
@@ -71,5 +75,8 @@ templates that haven't made that list.
 
 ## Miscellaneous
 
+- [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
+- [devinc13/BattlesnakeTester](https://github.com/devinc13/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
+- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
