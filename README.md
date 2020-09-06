@@ -23,4 +23,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Miscellaneous
 
-- [lworkman/Battlesnake Board Generator](https://lworkman.github.io/battle-snake-board-generator/) (View/edit boards, also has ability to upload and download board states as JSON)
+- [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
