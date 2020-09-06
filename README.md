@@ -60,6 +60,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
 - [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) - (Simple environment for machine learning training, and A* for food finding)
+- [Battlesnake Post Mortem by Asymptotic Labs](https://medium.com/asymptoticlabs/battlesnake-post-mortem-a5917f9a3428) (Using a desktop GPU to top the global arena in under a week)
 
 ## Starter Projects
 
