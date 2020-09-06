@@ -1,6 +1,6 @@
 # Awesome Battlesnake [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Battlesnake resources
+> A curated list of [Battlesnake](https://play.battlesnake.com/) resources
 
 ## Contributing
 
