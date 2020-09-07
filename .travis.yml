@@ -1,4 +1,8 @@
 language: ruby
 rvm: 2.4.1
 before_script: gem install awesome_bot
-script: awesome_bot README.md --allow-redirect
+
+# lajeunesse.dev is whitelisted for Stats Tracker by Nettogrof
+# because it has a username/password, although the password but the
+# password is public.
+script: awesome_bot README.md --allow-redirect -w lajeunesse.dev
