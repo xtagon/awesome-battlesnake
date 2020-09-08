@@ -22,6 +22,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [McRaeAlex/RustySnake](https://github.com/McRaeAlex/RustySnake) (A battleSnake written in rust)
 - [MorganConrad/Sisiutl](https://github.com/MorganConrad/Sisiutl) (An aggressive Battlesnake written for NodeJS / Express)
 - [MorganConrad/tantilla](https://github.com/MorganConrad/tantilla) (Battlesnake written in node / micro)
+- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
 - [OliverMKing/Battlesnake](https://github.com/OliverMKing/Battlesnake) (My Battlesnake AI programmed in Python3)
 - [Petah/battle-snake-project-z](https://github.com/Petah/battle-snake-project-z) (A Battlesnake AI written in Javascript for NodeJS.)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
