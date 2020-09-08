@@ -14,6 +14,11 @@ Please make a best effort to ensure your pull request adheres to the following g
 - Additions and edits are kept consistent with the existing formatting and structure of the document
 - Links to external resources are publically accessible (no broken URLs, no paywalls, no password requirements)
 
+If the resource is intended to be publically accessible, but technically
+requires a password to use, it will be allowed as long as the login credentials
+are declared. In that case we ask that if the password ever changes, you would
+open a new PR to update the login instructions or remove the URL.
+
 If the resources you are adding does not fit the existing sections or
 categories, please place it under "Miscellaneous". The project maintainers will
 decide how to organize it and whether to add a new section, but feel free to

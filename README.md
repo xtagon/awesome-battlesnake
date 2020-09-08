@@ -23,6 +23,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [MorganConrad/Sisiutl](https://github.com/MorganConrad/Sisiutl) (An aggressive Battlesnake written for NodeJS / Express)
 - [MorganConrad/tantilla](https://github.com/MorganConrad/tantilla) (Battlesnake written in node / micro)
 - [OliverMKing/Battlesnake](https://github.com/OliverMKing/Battlesnake) (My Battlesnake AI programmed in Python3)
+- [Petah/battle-snake-project-z](https://github.com/Petah/battle-snake-project-z) (A Battlesnake AI written in Javascript for NodeJS.)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [Xe/since](https://github.com/Xe/since) (.i le mi nundambysince) (Editor's translation to English: "My battlesnake")
 - [bugabinga/battle_snake](https://github.com/bugabinga/battle_snake) (A hand-rolled Battlesnake-AI-Server written for the JVM)
@@ -84,4 +85,4 @@ templates that haven't made that list.
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [devinc13/BattlesnakeTester](https://github.com/devinc13/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
-- [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughtout time. Username/password: tester)
+- [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
