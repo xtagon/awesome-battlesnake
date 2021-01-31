@@ -19,10 +19,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Flipez/battlesnake](https://github.com/Flipez/battlesnake) (Battlesnake 2018 Crystal Implementation)
 - [JerryKott/Battlesnake2017](https://github.com/JerryKott/Battlesnake2017) (Repository for the battlesnake.io competition code written in Cincom Smalltalk)
+- [L4r0x/snork](https://github.com/L4r0x/snork) (Fast battlesnake agents written in rust.)
 - [McRaeAlex/RustySnake](https://github.com/McRaeAlex/RustySnake) (A battleSnake written in rust)
 - [MorganConrad/Sisiutl](https://github.com/MorganConrad/Sisiutl) (An aggressive Battlesnake written for NodeJS / Express)
 - [MorganConrad/tantilla](https://github.com/MorganConrad/tantilla) (Battlesnake written in node / micro)
 - [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
+- [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
 - [OliverMKing/Battlesnake](https://github.com/OliverMKing/Battlesnake) (My Battlesnake AI programmed in Python3)
 - [Petah/battle-snake-project-z](https://github.com/Petah/battle-snake-project-z) (A Battlesnake AI written in Javascript for NodeJS.)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
@@ -83,8 +85,10 @@ templates that haven't made that list.
 
 ## Miscellaneous
 
+- [Battlesnaake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
+- [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
