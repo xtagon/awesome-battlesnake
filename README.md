@@ -87,8 +87,8 @@ templates that haven't made that list.
 
 - [Battlesnaake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
-- [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
+- [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
