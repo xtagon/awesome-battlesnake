@@ -97,6 +97,7 @@ templates that haven't made that list.
 
 ## Miscellaneous
 
+- [A Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
 - [Battlesnake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
