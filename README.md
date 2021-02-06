@@ -9,6 +9,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Contents
 
 - [Battlesnakes](#battlesnakes)
+- [Developer Stories](#developer-stories)
 - [Game Rules and Logic](#game-rules-and-logic)
 - [Machine Learning](#machine-learning)
 - [Starter Projects](#starter-projects)
@@ -60,6 +61,12 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Xe/since](https://github.com/Xe/since) (.i le mi nundambysince) (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) (Battlesnake AI written in Elixir, 2019)
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) (Java BattleSnake)
+
+## Developer Stories
+
+- [Battlesnake: The Rusty Tapeworm Chronicles](https://sharkpillow.com/post/battlesnake/) (Background on [The Rusty Tapeworm](https://play.battlesnake.com/u/puttputt/the-rusty-tapeworm/)'s experience in the 2020 Battlesnake Saskatchewan Tournament)
+- [Battling the Snake: A Tournament Retrospective](https://www.kylepoole.me/blog/20191227_battlesnake_retrospective/) (Journey, Lessons Learned, and Future Plans from a Developer following a Battlesnake Tournament Experience)
+- [Can’t stop the snake in Port Townsend, Washington USA](https://www.ptleader.com/stories/cant-stop-the-snake-battlesnake-continues-into-new-competition-season,69107) (Port Townsend Leader showcases a local program teaching kids how to create their own Battlesnakes)
 
 ## Game Rules and Logic
 
