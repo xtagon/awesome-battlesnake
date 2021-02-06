@@ -90,7 +90,7 @@ templates that haven't made that list.
 
 ## Miscellaneous
 
-- [Battlesnaake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [Battlesnake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
