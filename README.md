@@ -13,6 +13,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Machine Learning](#machine-learning)
 - [Starter Projects](#starter-projects)
 - [Third-Party Arenas](#third-party-arenas)
+- [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
 
 ## Battlesnakes
@@ -82,6 +83,10 @@ templates that haven't made that list.
 
 - [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
 - [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
+
+## Tutorials
+
+- [Code a BattleSnake and compete with your friends - Eddie Jaoude](https://youtu.be/6Hb69Mji38M) (A video on getting started with Battlesnake, the TypeScript starter snake, and Codespaces)
 
 ## Miscellaneous
 
