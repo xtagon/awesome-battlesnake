@@ -14,7 +14,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Starter Projects](#starter-projects)
 - [Strategies and Algorithms](#strategies-and-algorithms)
-- [Third-Party Arenas](#third-party-arenas)
+- [Third-Party Tools](#third-party-tools)
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
 
@@ -69,6 +69,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Battling the Snake: A Tournament Retrospective](https://www.kylepoole.me/blog/20191227_battlesnake_retrospective/) (Journey, Lessons Learned, and Future Plans from a Developer following a Battlesnake Tournament Experience)
 - [Can’t stop the snake in Port Townsend, Washington USA](https://www.ptleader.com/stories/cant-stop-the-snake-battlesnake-continues-into-new-competition-season,69107) (Port Townsend Leader showcases a local program teaching kids how to create their own Battlesnakes)
 - [Live-Streaming Battlesnake on a Budget](https://brandonb.ca/live-streaming-battlesnake-on-a-budget) (Awesome insights into the Twitch live-streaming setup for the 2019 Battlesnake Victoria Tournament)
+- [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
 
 ## Game Rules and Logic
 
@@ -100,26 +101,25 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [Monte Carlo tree search (MCTS)](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (A tree search algorithm with many variants, sometimes using random rollouts and Upper Confidence Trees)
 - [Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) (Useful for estimating board area control)
 
-## Third-Party Arenas
+## Third-Party Tools
 
+- [Battlesnake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
+- [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
+- [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
+- [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 
 ## Tutorials
 
 - [Code a BattleSnake and compete with your friends - Eddie Jaoude](https://youtu.be/6Hb69Mji38M) (A video on getting started with Battlesnake, the TypeScript starter snake, and Codespaces)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
+- [Nettogrof/battle-snake-board-generator](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
 
 ## Miscellaneous
 
-- [Battlesnake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
-- [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
-- [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
-- [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
-- [Nettogrof/battle-snake-board-generator](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
-- [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
-- [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
