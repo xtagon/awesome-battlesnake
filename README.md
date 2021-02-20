@@ -13,6 +13,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Game Rules and Logic](#game-rules-and-logic)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Starter Projects](#starter-projects)
+- [Strategies and Algorithms](#strategies-and-algorithms)
 - [Third-Party Arenas](#third-party-arenas)
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
@@ -87,6 +88,17 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
 those from the community. This section is reserved for any notable project
 templates that haven't made that list.
+
+## Strategies and Algorithms
+
+This is not exhaustive--these topics are ones that members of the Battlesnake
+community have decided to share that they use for their snakes. Juicy secrets!
+
+- [A* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) (A graph traversal and path search algorithm)
+- [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) (An algorithm that helps determine areas that are open/connected)
+- [Minimax](https://en.wikipedia.org/wiki/Minimax) (A tree search algorithm popular among battlesnakes, often paired with [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning))
+- [Monte Carlo tree search (MCTS)](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (A tree search algorithm with many variants, sometimes using random rollouts and Upper Confidence Trees)
+- [Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) (Useful for estimating board area control)
 
 ## Third-Party Arenas
 
