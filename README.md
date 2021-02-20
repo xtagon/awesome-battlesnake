@@ -56,7 +56,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
-- [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)
+- [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)s
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) (Battlesnake 2019 AI written in NodeJS.)
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) (Battlesnakes for 2018, 2019 and 2020)
 - [Xe/since](https://github.com/Xe/since) (.i le mi nundambysince) (Editor's translation to English: "My battlesnake")
@@ -74,6 +74,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Game Rules and Logic
 
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
+- [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) (Experimental WebAssembly port of the Battlesnake rules)
 - [xtagon/Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
 
 ## Machine Learning and Data Science
