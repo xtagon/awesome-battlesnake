@@ -109,7 +109,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
 - [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
-- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2016-2019, human players, built-in opponents, and more!)
+- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 
 ## Tutorials
