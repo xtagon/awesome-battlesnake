@@ -20,6 +20,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Battlesnakes
 
+- [altersaddle/untimely-neglected-wearable](https://github.com/altersaddle/untimely-neglected-wearable) (A Python battlesnake featured as a strong opponent in the [Brad and Joe Coding Badly](https://github.com/BattlesnakeOfficial/coding-badly) live stream)
 - [bugabinga/battle_snake](https://github.com/bugabinga/battle_snake) (A hand-rolled Battlesnake-AI-Server written for the JVM)
 - [ccSnake2018/ccsnake](https://github.com/ccSnake2018/ccsnake) (cc snake on 2018 BattleSnake Competition)
 - [com/tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
