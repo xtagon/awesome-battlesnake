@@ -68,9 +68,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Battlesnake: The Rusty Tapeworm Chronicles](https://sharkpillow.com/post/battlesnake/) (Background on [The Rusty Tapeworm](https://play.battlesnake.com/u/puttputt/the-rusty-tapeworm/)'s experience in the 2020 Battlesnake Saskatchewan Tournament)
 - [Battling the Snake: A Tournament Retrospective](https://www.kylepoole.me/blog/20191227_battlesnake_retrospective/) (Journey, Lessons Learned, and Future Plans from a Developer following a Battlesnake Tournament Experience)
+- [Building the Bounty Snake](https://rdbrck.com/news/building-bounty-snake-post-mortem/) (A post-mortem from 2017 describing techniques and challenges in creating Redbrick Robosnake, including creating their own arena!)
 - [Can’t stop the snake in Port Townsend, Washington USA](https://www.ptleader.com/stories/cant-stop-the-snake-battlesnake-continues-into-new-competition-season,69107) (Port Townsend Leader showcases a local program teaching kids how to create their own Battlesnakes)
 - [Live-Streaming Battlesnake on a Budget](https://brandonb.ca/live-streaming-battlesnake-on-a-budget) (Awesome insights into the Twitch live-streaming setup for the 2019 Battlesnake Victoria Tournament)
 - [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
+- [Son of Robosnake: an Aggressive Bounty Snake](https://rdbrck.com/news/son-robosnake-aggressive-bounty-snake/) (A post-mortem for the 2018 bounty snake called Son of Robosnake, from Redbrick)
 
 ## Game Rules and Logic
 
