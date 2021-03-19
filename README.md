@@ -114,6 +114,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
+- [Mojave Battle App](https://github.com/smallsco/mojave) (Local App to test and play against url/robot/human snakes) 
 
 ## Tutorials
 
