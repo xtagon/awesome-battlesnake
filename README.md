@@ -20,6 +20,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Battlesnakes
 
+- [aleksiy325/snek-two](https://github.com/aleksiy325/snek-two) ("asdf123", winner of Battlesnake Victoria 2018 Intermediate Division)
 - [altersaddle/untimely-neglected-wearable](https://github.com/altersaddle/untimely-neglected-wearable) (A Python battlesnake featured as a strong opponent in the [Brad and Joe Coding Badly](https://github.com/BattlesnakeOfficial/coding-badly) live stream)
 - [bugabinga/battle_snake](https://github.com/bugabinga/battle_snake) (A hand-rolled Battlesnake-AI-Server written for the JVM)
 - [ccSnake2018/ccsnake](https://github.com/ccSnake2018/ccsnake) (cc snake on 2018 BattleSnake Competition)
@@ -28,6 +29,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [csauve/bookworm](https://github.com/csauve/bookworm) (A BattleSnake bot for 2020. Available to challenge in public snake search)
 - [Flipez/battlesnake](https://github.com/Flipez/battlesnake) (Battlesnake 2018 Crystal Implementation)
 - [fuele/battlensake](https://github.com/fuele/battlensake) (Implementation of the battlesnake.io API in order to get those sweet, sweet victories)
+- [graeme-hill/snakebot](https://github.com/graeme-hill/snakebot) (Team Graeme & Chris, winner of Battlesnake Victoria 2018 Expert Division, see post-mortem in [Developer Stories](#developer-stories))
 - [hirethissnake/2017](https://github.com/hirethissnake/2017) (A Python AI for competition in the BattleSnake 2017 competition)
 - [jackisherwood/battleSnakeElon](https://github.com/jackisherwood/battleSnakeElon) (Snake that was entered in Battle Snake 2019)
 - [JerryKott/Battlesnake2017](https://github.com/JerryKott/Battlesnake2017) (Repository for the battlesnake.io competition code written in Cincom Smalltalk)
@@ -46,10 +48,11 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
 - [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
 - [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
+- [noahspriggs/battlesnake-python](https://github.com/noahspriggs/battlesnake-python) (TR-8R SnEk, winner of Battlesnake Victoria 2016 Advanced Division)
 - [OliverMKing/Battlesnake](https://github.com/OliverMKing/Battlesnake) (My Battlesnake AI programmed in Python3)
 - [pambrose/battlesnake-examples](https://github.com/pambrose/battlesnake-examples) (Battlesnake Quickstart Snake Examples)
 - [Petah/battle-snake-project-z](https://github.com/Petah/battle-snake-project-z) (A Battlesnake AI written in Javascript for NodeJS.)
-- [rdbrck/battlesnake-2017-btas](https://github.com/rdbrck/battlesnake-2017-btas) (Better than Aleksiy's Snake, winner of Battlesnake 2017 Advanced Division)
+- [rdbrck/battlesnake-2017-btas](https://github.com/rdbrck/battlesnake-2017-btas) (Better than Aleksiy's Snake, winner of Battlesnake Victoria 2017 Advanced Division)
 - [rdbrck/bountysnake2017](https://github.com/rdbrck/bountysnake2017) (Redbrick's bounty snake in 2017, went 42-3, see post-mortems in [Developer Stories](#developer-stories))
 - [rdbrck/bountysnake2018](https://github.com/rdbrck/bountysnake2018) (Redbrick's bounty snake in 2018, went 71-3, see see post-mortems in [Developer Stories](#developer-stories) and [design talk](https://www.youtube.com/watch?v=vlEgqnxEWdc))
 - [ronaldosvieira/cobrinha](https://github.com/ronaldosvieira/cobrinha) (Playing Battlesnake with reinforcement learning)
@@ -68,6 +71,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Battlesnake: The Rusty Tapeworm Chronicles](https://sharkpillow.com/post/battlesnake/) (Background on [The Rusty Tapeworm](https://play.battlesnake.com/u/puttputt/the-rusty-tapeworm/)'s experience in the 2020 Battlesnake Saskatchewan Tournament)
 - [Battling the Snake: A Tournament Retrospective](https://www.kylepoole.me/blog/20191227_battlesnake_retrospective/) (Journey, Lessons Learned, and Future Plans from a Developer following a Battlesnake Tournament Experience)
+- [Building an AI for Battlesnake](http://www.graemehill.ca/battle-snake/) (A post-mortem from the winner of the Battlesnake Victoria 2018 Expert Division)
 - [Building the Bounty Snake](https://rdbrck.com/news/building-bounty-snake-post-mortem/) (A post-mortem from 2017 describing techniques and challenges in creating Redbrick Robosnake, including creating their own arena!)
 - [Can’t stop the snake in Port Townsend, Washington USA](https://www.ptleader.com/stories/cant-stop-the-snake-battlesnake-continues-into-new-competition-season,69107) (Port Townsend Leader showcases a local program teaching kids how to create their own Battlesnakes)
 - [Live-Streaming Battlesnake on a Budget](https://brandonb.ca/live-streaming-battlesnake-on-a-budget) (Awesome insights into the Twitch live-streaming setup for the 2019 Battlesnake Victoria Tournament)
