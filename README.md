@@ -115,6 +115,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
 - [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
 - [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
+- [Nettogrof/battle-snake-board-generator](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
 - [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
@@ -124,7 +125,6 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [Code a BattleSnake and compete with your friends - Eddie Jaoude](https://youtu.be/6Hb69Mji38M) (A video on getting started with Battlesnake, the TypeScript starter snake, and Codespaces)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
-- [Nettogrof/battle-snake-board-generator](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
 
 ## Miscellaneous
 
