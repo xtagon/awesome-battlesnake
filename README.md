@@ -123,6 +123,8 @@ community have decided to share that they use for their snakes. Juicy secrets!
 ## Tutorials
 
 - [Code a BattleSnake and compete with your friends - Eddie Jaoude](https://youtu.be/6Hb69Mji38M) (A video on getting started with Battlesnake, the TypeScript starter snake, and Codespaces)
+- [Learn to Battlesnake - Fork by Nettogrof](https://nettogrof.github.io/battlesnake-learn/) (A fork of Learn to Battlesnake bringing it up to date with Battlesnake API v1)
+- [Learn to Battlesnake - Original by Colin Walker](https://colinjfw.github.io/battlesnake-learn/) (An interactive tutorial with live Battlesnake coding goodness!)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
 
