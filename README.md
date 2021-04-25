@@ -48,6 +48,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
 - [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
 - [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
+- [Nettogrof/nessegrev-java-dev](https://github.com/Nettogrof/nessegrev-java-dev) (Source code of Nessegrev snakes.)
 - [noahspriggs/battlesnake-python](https://github.com/noahspriggs/battlesnake-python) (TR-8R SnEk, winner of Battlesnake Victoria 2016 Advanced Division)
 - [OliverMKing/Battlesnake](https://github.com/OliverMKing/Battlesnake) (My Battlesnake AI programmed in Python3)
 - [pambrose/battlesnake-examples](https://github.com/pambrose/battlesnake-examples) (Battlesnake Quickstart Snake Examples)
