@@ -46,7 +46,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [moxuz/Battlesnake-AI-2017](https://github.com/moxuz/Battlesnake-AI-2017) (One Of Four Sendwithus Bounty Snakes)
 - [nbw/battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) (A bounty battlesnake written in Crystal)
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
-- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia)
+- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
 - [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
 - [Nettogrof/nessegrev-java-dev](https://github.com/Nettogrof/nessegrev-java-dev) (Source code of Nessegrev snakes.)
 - [noahspriggs/battlesnake-python](https://github.com/noahspriggs/battlesnake-python) (TR-8R SnEk, winner of Battlesnake Victoria 2016 Advanced Division)
