@@ -46,7 +46,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [moxuz/Battlesnake-AI-2017](https://github.com/moxuz/Battlesnake-AI-2017) (One Of Four Sendwithus Bounty Snakes)
 - [nbw/battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) (A bounty battlesnake written in Crystal)
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
-- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
+- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia)
 - [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
 - [Nettogrof/nessegrev-java-dev](https://github.com/Nettogrof/nessegrev-java-dev) (Source code of Nessegrev snakes.)
 - [noahspriggs/battlesnake-python](https://github.com/noahspriggs/battlesnake-python) (TR-8R SnEk, winner of Battlesnake Victoria 2016 Advanced Division)
@@ -60,6 +60,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [smallsco/robosnake](https://github.com/smallsco/robosnake) (A port of Redbrick's Robosnake to the 2019 API with some minor enhancements)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
+- [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) (A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)s
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) (Battlesnake 2019 AI written in NodeJS.)
@@ -70,6 +71,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Developer Stories
 
+- [Backstory of the Caterpillar BattleSnakes family](https://github.com/TheApX/battlesnake-hungry/blob/main/docs/backstory.md) (Journey and future plans of the developer of Hungry Caterpillar, Smart Caterpillar and test/educational [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry))
 - [Battlesnake: The Rusty Tapeworm Chronicles](https://sharkpillow.com/post/battlesnake/) (Background on [The Rusty Tapeworm](https://play.battlesnake.com/u/puttputt/the-rusty-tapeworm/)'s experience in the 2020 Battlesnake Saskatchewan Tournament)
 - [Battling the Snake: A Tournament Retrospective](https://www.kylepoole.me/blog/20191227_battlesnake_retrospective/) (Journey, Lessons Learned, and Future Plans from a Developer following a Battlesnake Tournament Experience)
 - [Building an AI for Battlesnake](http://www.graemehill.ca/battle-snake/) (A post-mortem from the winner of the Battlesnake Victoria 2018 Expert Division)
@@ -82,6 +84,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Game Rules and Logic
 
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
+- [TheApX/battlesnake-engine-cpp](https://github.com/TheApX/battlesnake-engine-cpp) (Unofficial C++ implementation of BattleSnake rules and snake server)
 - [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) (Experimental WebAssembly port of the Battlesnake rules)
 - [xtagon/Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
 
@@ -128,6 +131,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [Learn to Battlesnake - Original by Colin Walker](https://colinjfw.github.io/battlesnake-learn/) (An interactive tutorial with live Battlesnake coding goodness!)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
+- [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
 
 ## Miscellaneous
 
