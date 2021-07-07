@@ -95,7 +95,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Exploring Data From Battlesnake Tournament Games](https://medium.com/battlesnake/exploring-battlesnake-game-data-4daa0d9fdd9) (Article exploring various stats across all games run during the 2019 Battlesnake Victoria Tournament)
 - [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) (Simple environment for machine learning training, and A* for food finding)
 - [Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/)
-
+- [NNUE explained in the context of chess](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md)
 ## Starter Projects
 
 Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
