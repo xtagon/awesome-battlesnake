@@ -112,6 +112,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) (An algorithm that helps determine areas that are open/connected)
 - [Minimax](https://en.wikipedia.org/wiki/Minimax) (A tree search algorithm popular among battlesnakes, often paired with [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning))
 - [Monte Carlo tree search (MCTS)](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (A tree search algorithm with many variants, sometimes using random rollouts and Upper Confidence Trees)
+- [NNUE](https://en.wikipedia.org/wiki/Efficiently_updatable_neural_network) (A neural network-based evaluation function that runs efficiently on CPUs)
 - [Voronoi](https://en.wikipedia.org/wiki/Voronoi_diagram) (Useful for estimating board area control)
 
 ## Third-Party Tools
