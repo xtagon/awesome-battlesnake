@@ -116,13 +116,14 @@ community have decided to share that they use for their snakes. Juicy secrets!
 
 ## Third-Party Tools
 
-- [Battlesnake Downloader](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
-- [cbinners/battlesnake-download-tool](https://github.com/cbinners/battlesnake-download-tool) (Chrome Extension to download game states for Battlesnake)
-- [joshhartmann11/BattleSnakeArena](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
-- [lworkman/battle-snake-board-generator](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
-- [Nettogrof/battle-snake-board-generator](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
-- [niecore/BattlesnakeTester](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
-- [smallsco/mojave](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
+- [BattlesnakeArena by joshhartmann11](https://github.com/joshhartmann11/BattleSnakeArena) (A modified, terminal based, battle snake arena to bypass servers and have complete access to data)
+- [BattlesnakeTester by niecore](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
+- [Board Generator by lworkman](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
+- [Board Generator by Nettogrof](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
+- [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) (CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake)
+- [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
+- [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 
 ## Tutorials
