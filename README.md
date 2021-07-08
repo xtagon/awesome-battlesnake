@@ -46,7 +46,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [moxuz/Battlesnake-AI-2017](https://github.com/moxuz/Battlesnake-AI-2017) (One Of Four Sendwithus Bounty Snakes)
 - [nbw/battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) (A bounty battlesnake written in Crystal)
 - [nbw/battlesnake](https://github.com/nbw/battlesnake) (Ruby Battle Snake, 2017)
-- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia) 
+- [Nettogrof/Battlesnake-Nessegrev-Julia](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia) (Battlesnake written in julia)
 - [Nettogrof/battlesnake-nessegrev](https://github.com/Nettogrof/battlesnake-nessegrev) (Release of all Nessegrev snakes binairies)
 - [Nettogrof/nessegrev-java-dev](https://github.com/Nettogrof/nessegrev-java-dev) (Source code of Nessegrev snakes.)
 - [noahspriggs/battlesnake-python](https://github.com/noahspriggs/battlesnake-python) (TR-8R SnEk, winner of Battlesnake Victoria 2016 Advanced Division)
@@ -93,7 +93,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) (Multi-agent reinforcement learning environment)
 - [Battlesnake Post Mortem by Asymptotic Labs](https://medium.com/asymptoticlabs/battlesnake-post-mortem-a5917f9a3428) (Using a desktop GPU to top the global arena in under a week)
 - [Exploring Data From Battlesnake Tournament Games](https://medium.com/battlesnake/exploring-battlesnake-game-data-4daa0d9fdd9) (Article exploring various stats across all games run during the 2019 Battlesnake Victoria Tournament)
-- [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) (Simple environment for machine learning training, and A* for food finding)
+- [NNUE-Pytorch](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md) ("Efficiently Updatable Neural Network" explained in the context of chess)
+- [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) (Simple environment for machine learning training, and A\* for food finding)
 - [Scaling your AI-powered Battlesnake with distributed reinforcement learning in Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/scaling-your-ai-powered-battlesnake-with-distributed-reinforcement-learning-in-amazon-sagemaker/)
 
 ## Starter Projects
@@ -107,7 +108,7 @@ templates that haven't made that list.
 This is not exhaustive--these topics are ones that members of the Battlesnake
 community have decided to share that they use for their snakes. Juicy secrets!
 
-- [A* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) (A graph traversal and path search algorithm)
+- [A\* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) (A graph traversal and path search algorithm)
 - [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) (An algorithm that helps determine areas that are open/connected)
 - [Minimax](https://en.wikipedia.org/wiki/Minimax) (A tree search algorithm popular among battlesnakes, often paired with [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning))
 - [Monte Carlo tree search (MCTS)](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search) (A tree search algorithm with many variants, sometimes using random rollouts and Upper Confidence Trees)
@@ -136,6 +137,6 @@ community have decided to share that they use for their snakes. Juicy secrets!
 
 ## Miscellaneous
 
-- [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md)  (Tips & tricks for Battlesnake challenges)
+- [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md) (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
