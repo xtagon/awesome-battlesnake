@@ -77,6 +77,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Building an AI for Battlesnake](http://www.graemehill.ca/battle-snake/) (A post-mortem from the winner of the Battlesnake Victoria 2018 Expert Division)
 - [Building the Bounty Snake](https://rdbrck.com/news/building-bounty-snake-post-mortem/) (A post-mortem from 2017 describing techniques and challenges in creating Redbrick Robosnake, including creating their own arena!)
 - [Can’t stop the snake in Port Townsend, Washington USA](https://www.ptleader.com/stories/cant-stop-the-snake-battlesnake-continues-into-new-competition-season,69107) (Port Townsend Leader showcases a local program teaching kids how to create their own Battlesnakes)
+- [Entering the Battlesnake Arena](https://weitzel.dev/post/battlesnake-intro/) (An introduction to Battlesnake using Rust for examples, by Thomas Weitzel)
 - [Live-Streaming Battlesnake on a Budget](https://brandonb.ca/live-streaming-battlesnake-on-a-budget) (Awesome insights into the Twitch live-streaming setup for the 2019 Battlesnake Victoria Tournament)
 - [Nettogrof BattleSnake Blog](https://nettogrof.github.io/) (Blog posts about Battlesnake)
 - [Son of Robosnake: an Aggressive Bounty Snake](https://rdbrck.com/news/son-robosnake-aggressive-bounty-snake/) (A post-mortem for the 2018 bounty snake called Son of Robosnake, from Redbrick)
