@@ -127,6 +127,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
+- [BattlesnakeTester by jfgodoy](https://github.com/jfgodoy/battlesnake-tester) (An app to create tests for your battlesnakes using imported games from the arena)
 
 ## Tutorials
 
