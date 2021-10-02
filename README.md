@@ -61,6 +61,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
 - [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) (A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial)
+- [tphummel/bobby-witt](https://github.com/tphummel/bobby-witt) (a snake with unit tests that can run locally and runs on cloudflare workers)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)s
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) (Battlesnake 2019 AI written in NodeJS.)
