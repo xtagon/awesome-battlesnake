@@ -124,6 +124,7 @@ community have decided to share that they use for their snakes. Juicy secrets!
 - [BattlesnakeTester by niecore](https://github.com/niecore/BattlesnakeTester) (Smoke tests for Battlesnake behaviour)
 - [Board Generator by lworkman](https://github.com/lworkman/battle-snake-board-generator) (A quick and dirty react-typescript app for battlesnake testing)
 - [Board Generator by Nettogrof](https://github.com/Nettogrof/battle-snake-board-generator) (A fork based on lworkman's board generator, with some awesome updates)
+- [Snek-Spec - Plaintext Board Generator by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) (CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake)
 - [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
