@@ -110,6 +110,8 @@ templates that haven't made that list.
 This is not exhaustive--these topics are ones that members of the Battlesnake
 community have decided to share that they use for their snakes. Juicy secrets!
 
+See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically.
+
 - [A\* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) (A graph traversal and path search algorithm)
 - [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) (An algorithm that helps determine areas that are open/connected)
 - [Minimax](https://en.wikipedia.org/wiki/Minimax) (A tree search algorithm popular among battlesnakes, often paired with [Alpha-beta pruning](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning))
