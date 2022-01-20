@@ -26,8 +26,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ccSnake2018/ccsnake](https://github.com/ccSnake2018/ccsnake) (cc snake on 2018 BattleSnake Competition)
 - [ChaelCodes/CorneliusCodes](https://github.com/ChaelCodes/CorneliusCodes) (Cornelius, the Corn Snake who codes, is a Rusty Battlesnake Baby.)
 - [ChaelCodes/HettieCodes](https://github.com/ChaelCodes/HettieCodes) (An albino hognose battlesnake built using Ruby. Their arch-nemesis CorneliusCodes always takes valedictorian.)
-- [com/tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
-- [com/ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
 - [coreyja/battlesnake-rs](https://github.com/coreyja/battlesnake-rs) (A collection of many of Coreyja's battlesnakes, written in Rust)
 - [csauve/bookworm](https://github.com/csauve/bookworm) (A BattleSnake bot for 2020. Available to challenge in public snake search)
 - [Flipez/battlesnake](https://github.com/Flipez/battlesnake) (Battlesnake 2018 Crystal Implementation)
@@ -64,6 +62,8 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
 - [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) (A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial)
+- [tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
+- [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
 - [tphummel/bobby-witt](https://github.com/tphummel/bobby-witt) (A snake with unit tests that can run locally and runs on Cloudflare workers)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)s
