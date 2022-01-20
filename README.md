@@ -11,6 +11,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Battlesnakes](#battlesnakes)
 - [Developer Stories](#developer-stories)
 - [Game Rules and Logic](#game-rules-and-logic)
+- [Live Streamers](#live-streamers)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Starter Projects](#starter-projects)
 - [Strategies and Algorithms](#strategies-and-algorithms)
@@ -96,6 +97,14 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [TheMrSheldon/libsnake](https://github.com/TheMrSheldon/libsnake) (The aim of libsnake is to provide an intuitive and fast library for simulating snake games. C++)
 - [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) (Experimental WebAssembly port of the Battlesnake rules)
 - [xtagon/Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
+
+## Live Streamers
+
+These people live stream their Battlesnake adventures, let's show our support!. This is definitely not an exhaustive list, just a few that I have noticed are more active. Be sure to search for the "battlesnake" keyword on Twitch, and check the #livestreams announcement channel in Battlensake's Discord to find new streamers.
+
+- [ChaelCodes](https://www.twitch.tv/chaelcodes) (ChaelCodes is a professional developer who likes "to live-code and play programming-adjacent games" - notably having streamed development on the snakes HettieCodes and CorneliusCodes, but has a variety of other projects.)
+- [geehlive](https://www.twitch.tv/geehlive) (Developer advocate at Twilio and passionate about open source software.)
+- [penelope_zone](https://www.twitch.tv/penelope_zone/) (Penelope (She/Her or They/Them pronouns) has been known to stream development of Rust battlesnakes, and has been very open about dicussing interesting algorithms such as MCTS in the community)
 
 ## Machine Learning and Data Science
 
