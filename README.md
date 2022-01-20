@@ -35,6 +35,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [jackisherwood/battleSnakeElon](https://github.com/jackisherwood/battleSnakeElon) (Snake that was entered in Battle Snake 2019)
 - [JerryKott/Battlesnake2017](https://github.com/JerryKott/Battlesnake2017) (Repository for the battlesnake.io competition code written in Cincom Smalltalk)
 - [jhawthorn/snek](https://github.com/jhawthorn/snek) (A battlesnake in Ruby, with C extensions)
+- [joenash/blockly-snake](https://github.com/joenash/blockly-snake) (Blockly Battlesnake - That's right, a battlesnake made using Blockly's visual programming framework. Legendary idea!)
 - [joshhartmann11/battlejake](https://github.com/joshhartmann11/battlejake) (Battlejake is an if-else snake)
 - [joshhartmann11/battleJake2019](https://github.com/joshhartmann11/battleJake2019) (Python, 2019)
 - [kentmacdonald2/battle-snake-2017](https://github.com/kentmacdonald2/battle-snake-2017) (2017 Battlesnake Advanced Division Entry - Aggressive A-Star based implementation)
