@@ -70,6 +70,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) (Battlesnakes for 2018, 2019 and 2020)
 - [Xe/since](https://github.com/Xe/since) (.i le mi nundambysince) (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) (Battlesnake AI written in Elixir, 2019)
+- [zacpez/scape-goat](https://github.com/zacpez/scape-goat) (Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.)
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) (Java BattleSnake)
 
 ## Developer Stories
