@@ -104,7 +104,7 @@ These people live stream their Battlesnake adventures, let's show our support!. 
 
 - [ChaelCodes](https://www.twitch.tv/chaelcodes) (ChaelCodes is a professional developer who likes "to live-code and play programming-adjacent games" - notably having streamed development on the snakes HettieCodes and CorneliusCodes, but has a variety of other projects.)
 - [geehlive](https://www.twitch.tv/geehlive) (Developer advocate at Twilio and passionate about open source software.)
-- [penelope_zone](https://www.twitch.tv/penelope_zone/) (Penelope (She/Her or They/Them pronouns) has been known to stream development of Rust battlesnakes, and has been very open about dicussing interesting algorithms such as MCTS in the community)
+- [penelope_zone](https://www.twitch.tv/penelope_zone/) (Penelope (She/Her or They/Them pronouns) has been known to stream development of Rust battlesnakes, and has been very open about discussing interesting algorithms such as MCTS in the community)
 
 ## Machine Learning and Data Science
 
