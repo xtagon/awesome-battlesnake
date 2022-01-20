@@ -11,6 +11,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Battlesnakes](#battlesnakes)
 - [Developer Stories](#developer-stories)
 - [Game Rules and Logic](#game-rules-and-logic)
+- [Live Streamers](#live-streamers)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
 - [Starter Projects](#starter-projects)
 - [Strategies and Algorithms](#strategies-and-algorithms)
@@ -24,8 +25,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [altersaddle/untimely-neglected-wearable](https://github.com/altersaddle/untimely-neglected-wearable) (A Python battlesnake featured as a strong opponent in the [Brad and Joe Coding Badly](https://github.com/BattlesnakeOfficial/coding-badly) live stream)
 - [bugabinga/battle_snake](https://github.com/bugabinga/battle_snake) (A hand-rolled Battlesnake-AI-Server written for the JVM)
 - [ccSnake2018/ccsnake](https://github.com/ccSnake2018/ccsnake) (cc snake on 2018 BattleSnake Competition)
-- [com/tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
-- [com/ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
+- [ChaelCodes/CorneliusCodes](https://github.com/ChaelCodes/CorneliusCodes) (Cornelius, the Corn Snake who codes, is a Rusty Battlesnake Baby.)
+- [ChaelCodes/HettieCodes](https://github.com/ChaelCodes/HettieCodes) (An albino hognose battlesnake built using Ruby. Their arch-nemesis CorneliusCodes always takes valedictorian.)
+- [coreyja/battlesnake-rs](https://github.com/coreyja/battlesnake-rs) (A collection of many of Coreyja's battlesnakes, written in Rust)
 - [csauve/bookworm](https://github.com/csauve/bookworm) (A BattleSnake bot for 2020. Available to challenge in public snake search)
 - [Flipez/battlesnake](https://github.com/Flipez/battlesnake) (Battlesnake 2018 Crystal Implementation)
 - [fuele/battlensake](https://github.com/fuele/battlensake) (Implementation of the battlesnake.io API in order to get those sweet, sweet victories)
@@ -34,6 +36,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [jackisherwood/battleSnakeElon](https://github.com/jackisherwood/battleSnakeElon) (Snake that was entered in Battle Snake 2019)
 - [JerryKott/Battlesnake2017](https://github.com/JerryKott/Battlesnake2017) (Repository for the battlesnake.io competition code written in Cincom Smalltalk)
 - [jhawthorn/snek](https://github.com/jhawthorn/snek) (A battlesnake in Ruby, with C extensions)
+- [joenash/blockly-snake](https://github.com/joenash/blockly-snake) (Blockly Battlesnake - That's right, a battlesnake made using Blockly's visual programming framework. Legendary idea!)
 - [joshhartmann11/battlejake](https://github.com/joshhartmann11/battlejake) (Battlejake is an if-else snake)
 - [joshhartmann11/battleJake2019](https://github.com/joshhartmann11/battleJake2019) (Python, 2019)
 - [kentmacdonald2/battle-snake-2017](https://github.com/kentmacdonald2/battle-snake-2017) (2017 Battlesnake Advanced Division Entry - Aggressive A-Star based implementation)
@@ -60,7 +63,10 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [smallsco/robosnake](https://github.com/smallsco/robosnake) (A port of Redbrick's Robosnake to the 2019 API with some minor enhancements)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
+- [Tch1b0/Esproso](https://github.com/Tch1b0/Esproso) (A Battlesnake made in Go - The main goal of Esproso is to survive)
 - [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) (A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial)
+- [tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
+- [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
 - [tphummel/bobby-witt](https://github.com/tphummel/bobby-witt) (A snake with unit tests that can run locally and runs on Cloudflare workers)
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) (A BattleSnake AI Written in Python)
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) (BattleSnake AI server written in Python)s
@@ -68,6 +74,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) (Battlesnakes for 2018, 2019 and 2020)
 - [Xe/since](https://github.com/Xe/since) (.i le mi nundambysince) (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) (Battlesnake AI written in Elixir, 2019)
+- [zacpez/scape-goat](https://github.com/zacpez/scape-goat) (Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.)
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) (Java BattleSnake)
 
 ## Developer Stories
@@ -87,8 +94,17 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
 - [TheApX/battlesnake-engine-cpp](https://github.com/TheApX/battlesnake-engine-cpp) (Unofficial C++ implementation of BattleSnake rules and snake server)
+- [TheMrSheldon/libsnake](https://github.com/TheMrSheldon/libsnake) (The aim of libsnake is to provide an intuitive and fast library for simulating snake games. C++)
 - [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) (Experimental WebAssembly port of the Battlesnake rules)
 - [xtagon/Snek](https://github.com/xtagon/snek) (Battlesnake-compatible rulesets and board positions in Elixir)
+
+## Live Streamers
+
+These people live stream their Battlesnake adventures, let's show our support!. This is definitely not an exhaustive list, just a few that I have noticed are more active. Be sure to search for the "battlesnake" keyword on Twitch, and check the #livestreams announcement channel in Battlensake's Discord to find new streamers.
+
+- [ChaelCodes](https://www.twitch.tv/chaelcodes) (ChaelCodes is a professional developer who likes "to live-code and play programming-adjacent games" - notably having streamed development on the snakes HettieCodes and CorneliusCodes, but has a variety of other projects.)
+- [geehlive](https://www.twitch.tv/geehlive) (Developer advocate at Twilio and passionate about open source software.)
+- [penelope_zone](https://www.twitch.tv/penelope_zone/) (Penelope (She/Her or They/Them pronouns) has been known to stream development of Rust battlesnakes, and has been very open about dicussing interesting algorithms such as MCTS in the community)
 
 ## Machine Learning and Data Science
 
@@ -147,3 +163,4 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md) (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
+- [Sorting Hat by Nicholas Carrigan](https://github.com/nhcarrigan/battlesnake-sorting-hat) (Sorting Hat for BattleSnake 2021 Summer League, where participants chose their favorite "caster houses" to support)
