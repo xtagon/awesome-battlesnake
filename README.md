@@ -147,3 +147,4 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md) (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
+- [Sorting Hat by Nicholas Carrigan](https://github.com/nhcarrigan/battlesnake-sorting-hat) (Sorting Hat for BattleSnake 2021 Summer League, where participants chose their favorite "caster houses" to support)
