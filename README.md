@@ -61,6 +61,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [smallsco/robosnake](https://github.com/smallsco/robosnake) (A port of Redbrick's Robosnake to the 2019 API with some minor enhancements)
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) (Vulture Snake, created for BattleSnake 2017)
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) (A competition AI for the BattleSnake 2019 programming competition)
+- [Tch1b0/Esproso](https://github.com/Tch1b0/Esproso) (A Battlesnake made in Go - The main goal of Esproso is to survive)
 - [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) (A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial)
 - [tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
 - [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
