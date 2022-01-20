@@ -28,6 +28,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ChaelCodes/HettieCodes](https://github.com/ChaelCodes/HettieCodes) (An albino hognose battlesnake built using Ruby. Their arch-nemesis CorneliusCodes always takes valedictorian.)
 - [com/tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) (This is battle snake bot in Flask, PostgreSql)
 - [com/ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) (Reinforcement Learning, "In which we try to crack a walnut with a jackhammer")
+- [coreyja/battlesnake-rs](https://github.com/coreyja/battlesnake-rs) (A collection of many of Coreyja's battlesnakes, written in Rust)
 - [csauve/bookworm](https://github.com/csauve/bookworm) (A BattleSnake bot for 2020. Available to challenge in public snake search)
 - [Flipez/battlesnake](https://github.com/Flipez/battlesnake) (Battlesnake 2018 Crystal Implementation)
 - [fuele/battlensake](https://github.com/fuele/battlensake) (Implementation of the battlesnake.io API in order to get those sweet, sweet victories)
