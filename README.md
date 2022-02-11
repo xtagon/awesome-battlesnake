@@ -148,6 +148,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
+- [Logging Proxy](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 
 ## Tutorials
 
