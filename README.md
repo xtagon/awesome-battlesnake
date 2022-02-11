@@ -145,10 +145,10 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) (CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake)
 - [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [Logging Proxy](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
-- [Logging Proxy](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 
 ## Tutorials
 
