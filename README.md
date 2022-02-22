@@ -149,6 +149,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
+- [Instant Observability Dashboard by New Relic](https://newrelic.com/instant-observability/battlesnake/63a65857-a25e-4654-9174-928e5894b3b9/) (A tool you can use to monitor your Battlesnake server, including ensuring your server is compliant with the game's server requirements and that your Battlesnake is set up for success!)
 
 ## Tutorials
 
@@ -165,3 +166,4 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
 - [Sorting Hat by Nicholas Carrigan](https://github.com/nhcarrigan/battlesnake-sorting-hat) (Sorting Hat for BattleSnake 2021 Summer League, where participants chose their favorite "caster houses" to support)
+- [Hosting Credit from Digital Ocean](https://try.digitalocean.com/battlesnake/?utm_medium=sponsorship&utm_source=battlesnake&utm_campaign=global_brand_prospecting_en&utm_content=conversion) ($100 in credits from 2022 Competitive Season Partner Digital Ocean for hosting a Battlesnake Server)
