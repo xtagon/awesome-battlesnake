@@ -150,6 +150,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 - [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) (A Rust crate to represent game types in the game of battlesnake)
+- [Logging Proxy by penelopezone](https://github.com/penelopezone/battlesnake-logging-proxy) (Dump all your Battlenskae game requests to an sqlite file)
 
 ## Tutorials
 
