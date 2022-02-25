@@ -149,6 +149,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
+- [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) (A Rust crate to represent game types in the game of battlesnake)
 
 ## Tutorials
 
@@ -158,6 +159,8 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
 - [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
+- [Using Dijkstra's Algorithm for Battlesnake](https://alexswan.dev/posts/snake-dijkstra) (By the end of this tutorial you will have a simple Battlesnake who will use Dijkstra's Algorithm to find the shortest path to food. Intended to be a second-step for a dev beginning to create their snake, after they have followed Battlesnake's initial tutorials.
+- [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 
 ## Miscellaneous
 
