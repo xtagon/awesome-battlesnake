@@ -146,12 +146,11 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
 - [Instant Observability Dashboard by New Relic](https://newrelic.com/instant-observability/battlesnake/63a65857-a25e-4654-9174-928e5894b3b9/) (A tool you can use to monitor your Battlesnake server, including ensuring your server is compliant with the game's server requirements and that your Battlesnake is set up for success!)
-- [Logging Proxy](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
+- [Logging Proxy by penelopezone](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
 - [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) (A Rust crate to represent game types in the game of battlesnake)
-- [Logging Proxy by penelopezone](https://github.com/penelopezone/battlesnake-logging-proxy) (Dump all your Battlenskae game requests to an sqlite file)
 
 ## Tutorials
 
