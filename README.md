@@ -145,12 +145,12 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) (CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake)
 - [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) (A Rust crate to represent game types in the game of battlesnake)
 - [Instant Observability Dashboard by New Relic](https://newrelic.com/instant-observability/battlesnake/63a65857-a25e-4654-9174-928e5894b3b9/) (A tool you can use to monitor your Battlesnake server, including ensuring your server is compliant with the game's server requirements and that your Battlesnake is set up for success!)
 - [Logging Proxy by penelopezone](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
 - [Stats Tracker](https://lajeunesse.dev:3000/login) (Dashboard to follow your snake rating throughout time. Username/password: tester)
-- [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) (A Rust crate to represent game types in the game of battlesnake)
 
 ## Tutorials
 
@@ -159,9 +159,9 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Learn to Battlesnake - Original by Colin Walker](https://colinjfw.github.io/battlesnake-learn/) (An interactive tutorial with live Battlesnake coding goodness!)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
+- [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 - [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
 - [Using Dijkstra's Algorithm for Battlesnake](https://alexswan.dev/posts/snake-dijkstra) (By the end of this tutorial you will have a simple Battlesnake who will use Dijkstra's Algorithm to find the shortest path to food. Intended to be a second-step for a dev beginning to create their snake, after they have followed Battlesnake's initial tutorials.
-- [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 
 ## Miscellaneous
 
