@@ -145,6 +145,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) (CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake)
 - [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) (Chrome extension to download battlesnake games)
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) (Firefox extension to download battlesnake games)
+- [Instant Observability Dashboard by New Relic](https://newrelic.com/instant-observability/battlesnake/63a65857-a25e-4654-9174-928e5894b3b9/) (A tool you can use to monitor your Battlesnake server, including ensuring your server is compliant with the game's server requirements and that your Battlesnake is set up for success!)
 - [Logging Proxy](https://github.com/penelopezone/battlesnake-logging-proxy) (A proxy server that sits between your Battlesnake and the Battlesnake Servers to save all request data to a local DB. Was built on [this episode of Battlesnake's Deep Learning](https://youtu.be/NgdPQ70OHlk))
 - [Mojave by smallsco](https://github.com/smallsco/mojave) (A Battlesnake app for Windows/Mac/Linux supporting simultaneous play of snakes from 2017 and up, human players, built-in opponents, and more!)
 - [Snek-Spec by mike-anderson](https://github.com/mike-anderson/snek-spec) (Generates boards from ASCII plain text mockups, designed to be used in typescript spec testing or as a standalone command line tool)
@@ -167,5 +168,6 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 
 - [Challenges - Tips & tricks](https://github.com/Nettogrof/Battlesnake-Nessegrev-julia/blob/master/Challenge-Tips%26Tricks.md) (Tips & tricks for Battlesnake challenges)
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
+- [Hosting Credit from Digital Ocean](https://play.battlesnake.com/partner/digitalocean) ($100 in credits from 2022 Competitive Season Partner Digital Ocean for hosting a Battlesnake Server)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
 - [Sorting Hat by Nicholas Carrigan](https://github.com/nhcarrigan/battlesnake-sorting-hat) (Sorting Hat for BattleSnake 2021 Summer League, where participants chose their favorite "caster houses" to support)
