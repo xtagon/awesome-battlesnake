@@ -158,6 +158,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Learn to Battlesnake - Fork by Nettogrof](https://nettogrof.github.io/battlesnake-learn/) (A fork of Learn to Battlesnake bringing it up to date with Battlesnake API v1)
 - [Learn to Battlesnake - Original by Colin Walker](https://colinjfw.github.io/battlesnake-learn/) (An interactive tutorial with live Battlesnake coding goodness!)
 - [Learning to build an Express API for Battlesnake](https://medium.com/battlesnake/learning-to-build-an-express-api-for-battlesnake-34e642975e39) (How to build a basic Battlesnake HTTP server using NodeJS and Express)
+- [Minimax in Battlesnake](https://coreyja.com/BattlesnakeMinimax/Minimax%20in%20Battlesnake/) (An excellent explaination by Coreyja of Minimax, MaxN, and related algorithms, with neat visualizations for both Tic Tac Toe and Battlesnake)
 - [Preparing to Compete in a Battlesnake Tournament](https://dev.to/mykalmachon/preparing-for-battlesnake-4bl5) (Primer on programming a snake that can at least sort of stand on its own two, metaphorical, legs)
 - [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 - [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
