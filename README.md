@@ -93,6 +93,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Game Rules and Logic
 
 - [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) (Battlesnake Game Rules and Logic)
+- [hughrawlinson/battlesnake](https://github.com/hughrawlinson/battlesnake) (Typescript/Javascript project generator, wrapper library, types, and dev tools)
 - [TheApX/battlesnake-engine-cpp](https://github.com/TheApX/battlesnake-engine-cpp) (Unofficial C++ implementation of BattleSnake rules and snake server)
 - [TheMrSheldon/libsnake](https://github.com/TheMrSheldon/libsnake) (The aim of libsnake is to provide an intuitive and fast library for simulating snake games. C++)
 - [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) (Experimental WebAssembly port of the Battlesnake rules)
