@@ -172,4 +172,5 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [ChatSnek](https://github.com/xtagon/chatsnek) (Chat plays Battlesnake on Twitch)
 - [Hosting Credit from Digital Ocean](https://play.battlesnake.com/partner/digitalocean) ($100 in credits from 2022 Competitive Season Partner Digital Ocean for hosting a Battlesnake Server)
 - [Musical Battlesnake Ballad by Luke Mitchell (aka exzizt)](https://soundcloud.com/exzizt/battlesnake) (Canadian Artist Luke Mitchell composed this epic ballad for the 2019 Battlesnake Victoria, British Columbia competition)
+- [SnakeLED](https://alexswan.dev/posts/snake-led-matrix) (A Raspberry Pi Powered Battlesnake Viewer)
 - [Sorting Hat by Nicholas Carrigan](https://github.com/nhcarrigan/battlesnake-sorting-hat) (Sorting Hat for BattleSnake 2021 Summer League, where participants chose their favorite "caster houses" to support)
