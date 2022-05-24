@@ -167,6 +167,8 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 - [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
 - [Using Dijkstra's Algorithm for Battlesnake](https://alexswan.dev/posts/snake-dijkstra) (By the end of this tutorial you will have a simple Battlesnake who will use Dijkstra's Algorithm to find the shortest path to food. Intended to be a second-step for a dev beginning to create their snake, after they have followed Battlesnake's initial tutorials.
+- [How to Monitor your Battlesnake with New Relic](https://blog.battlesnake.com/how-to-monitor-your-battlesnake-with-newrelic) (This Quick Start Guide and accompanying video tutorial will help you begin instrumenting and monitoring your Battlesnake with [New Relic](https://newrelic.com/) platform).
+
 
 ## Miscellaneous
 
