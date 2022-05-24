@@ -158,6 +158,7 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 ## Tutorials
 
 - [Code a BattleSnake and compete with your friends - Eddie Jaoude](https://youtu.be/6Hb69Mji38M) (A video on getting started with Battlesnake, the TypeScript starter snake, and Codespaces)
+- [How to Monitor your Battlesnake with New Relic](https://blog.battlesnake.com/how-to-monitor-your-battlesnake-with-newrelic) (This Quick Start Guide and accompanying video tutorial will help you begin instrumenting and monitoring your Battlesnake with [New Relic](https://newrelic.com/) platform).
 - [Learn to Battlesnake - Fork by Nettogrof](https://nettogrof.github.io/battlesnake-learn/) (A fork of Learn to Battlesnake bringing it up to date with Battlesnake API v1)
 - [Learn to Battlesnake - Original by Colin Walker](https://colinjfw.github.io/battlesnake-learn/) (An interactive tutorial with live Battlesnake coding goodness!)
 - [Learning Python by Battling Bots](https://youtu.be/YnVZYIoY5zI) - (Full setup and strategies by ClarityCoders, featuring Python and Replit. Great for beginners!)
@@ -167,8 +168,6 @@ See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algo
 - [Text Your Battlesnake's Progress with Twilio](https://alexswan.dev/posts/battlesnake-reports) (This project allows developers to see their snake's progress in a league at regular interval using Twilio - because it's super easy to get messages sent to your phone).
 - [The Very Hungry Caterpillar](https://github.com/TheApX/battlesnake-hungry/blob/main/README.md) (Turotial on building a simple hungry snake that can reach Gold medal in Global Arena)
 - [Using Dijkstra's Algorithm for Battlesnake](https://alexswan.dev/posts/snake-dijkstra) (By the end of this tutorial you will have a simple Battlesnake who will use Dijkstra's Algorithm to find the shortest path to food. Intended to be a second-step for a dev beginning to create their snake, after they have followed Battlesnake's initial tutorials.
-- [How to Monitor your Battlesnake with New Relic](https://blog.battlesnake.com/how-to-monitor-your-battlesnake-with-newrelic) (This Quick Start Guide and accompanying video tutorial will help you begin instrumenting and monitoring your Battlesnake with [New Relic](https://newrelic.com/) platform).
-
 
 ## Miscellaneous
 
