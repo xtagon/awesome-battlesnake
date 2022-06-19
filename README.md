@@ -76,7 +76,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) `Python` - Reinforcement Learning, "In which we try to crack a walnut with a jackhammer"
 - [tphummel/bobby-witt](https://github.com/tphummel/bobby-witt) `JavaScript` - A snake with unit tests that can run locally and runs on Cloudflare workers
 - [tyrelh/battlesnake-python](https://github.com/tyrelh/battlesnake-python) `Python` - A BattleSnake AI Written in Python
-- [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) `Python` - BattleSnake AI server written in Python)
+- [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) `Python` - BattleSnake AI server written in Python
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) `JavaScript` - Battlesnake 2019 AI written in NodeJS.
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) `Java` - Battlesnakes for 2018, 2019 and 2020
 - [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince9  (Editor's translation to English: "My battlesnake"
