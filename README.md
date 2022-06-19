@@ -71,7 +71,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) `Python` - Vulture Snake, created for BattleSnake 2017
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) `Python` - A competition AI for the BattleSnake 2019 programming competition
 - [Tch1b0/Esproso](https://github.com/Tch1b0/Esproso) `Go` - A Battlesnake made in Go - The main goal of Esproso is to survive
-- [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) `TODO` - A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial
+- [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) `C++` - A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial
 - [tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) `Python` - This is battle snake bot in Flask, PostgreSql
 - [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) `Python` - Reinforcement Learning, "In which we try to crack a walnut with a jackhammer"
 - [tphummel/bobby-witt](https://github.com/tphummel/bobby-witt) `JavaScript` - A snake with unit tests that can run locally and runs on Cloudflare workers
