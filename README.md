@@ -8,9 +8,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Meaning of symbols
 
-🌟 - The project/resource is recommended by the community
+🌟 - The project is recommended by the community
 
-🔨 - The Project/resource is actively maintained
+🔨 - The project is actively maintained
 
 ## Contents
 
