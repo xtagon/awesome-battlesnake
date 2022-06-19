@@ -70,7 +70,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [smallsco/robosnake](https://github.com/smallsco/robosnake) `Lua` - A port of Redbrick's Robosnake to the 2019 API with some minor enhancements
 - [Spenca/BattleSnake2017](https://github.com/Spenca/BattleSnake2017) `Python` - Vulture Snake, created for BattleSnake 2017
 - [tbgiles/FeistySnake-2019](https://github.com/tbgiles/FeistySnake-2019) `Python` - A competition AI for the BattleSnake 2019 programming competition
-- [Tch1b0/Esproso](https://github.com/Tch1b0/Esproso) `GO` - A Battlesnake made in Go - The main goal of Esproso is to survive
+- [Tch1b0/Esproso](https://github.com/Tch1b0/Esproso) `Go` - A Battlesnake made in Go - The main goal of Esproso is to survive
 - [TheApX/battlesnake-hungry](https://github.com/TheApX/battlesnake-hungry) `TODO` - A simple hungry battlesnake that is able to reach Gold medal in Global Arena with detailed documentation and turorial
 - [tim-hub/awesome-snake](https://github.com/tim-hub/awesome-snake) `Python` - This is battle snake bot in Flask, PostgreSql
 - [ToucheSir/reinforced-snake](https://github.com/ToucheSir/reinforced-snake) `Python` - Reinforcement Learning, "In which we try to crack a walnut with a jackhammer"
@@ -81,7 +81,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) `Java` - Battlesnakes for 2018, 2019 and 2020
 - [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince9  (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) `Elixir` - Battlesnake AI written in Elixir, 2019
-- [zacpez/scape-goat](https://github.com/zacpez/scape-goat) `GO` - Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.
+- [zacpez/scape-goat](https://github.com/zacpez/scape-goat) `Go` - Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) `java` - Java BattleSnake
 
 [⬆️ Back to top](#contents)
@@ -103,7 +103,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Game Rules and Logic
 
-- [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) `GO` - Battlesnake Game Rules and Logic
+- [BattlesnakeOfficial/rules](https://github.com/BattlesnakeOfficial/rules) `Go` - Battlesnake Game Rules and Logic
 - [hughrawlinson/battlesnake](https://github.com/hughrawlinson/battlesnake) `TypeScript` - Typescript/Javascript project generator, wrapper library, types, and dev tools
 - [TheApX/battlesnake-engine-cpp](https://github.com/TheApX/battlesnake-engine-cpp) `C++` - Unofficial C++ implementation of BattleSnake rules and snake server
 - [TheMrSheldon/libsnake](https://github.com/TheMrSheldon/libsnake) `C++`- The aim of libsnake is to provide an intuitive and fast library for simulating snake games. C++
