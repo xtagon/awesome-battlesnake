@@ -114,7 +114,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Live Streamers
 
-These people live stream their Battlesnake adventures, let's show our support!. This is definitely not an exhaustive list, just a few that I have noticed are more active. Be sure to search for the "battlesnake" keyword on Twitch, and check the #livestreams announcement channel in Battlensake's Discord to find new streamers.
+> _These people live stream their Battlesnake adventures, let's show our support!. This is definitely not an exhaustive list, just a few that I have noticed are more active. Be sure to search for the "battlesnake" keyword on Twitch, and check the #livestreams announcement channel in Battlensake's Discord to find new streamers._
 
 - [ChaelCodes](https://www.twitch.tv/chaelcodes) - ChaelCodes is a professional developer who likes "to live-code and play programming-adjacent games" - notably having streamed development on the snakes HettieCodes and CorneliusCodes, but has a variety of other projects.
 - [coreyja](https://www.twitch.tv/coreyja) - Rust, Ruby, Battlesnake!
@@ -140,18 +140,18 @@ These people live stream their Battlesnake adventures, let's show our support!. 
 
 ## Starter Projects
 
-Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
+> _Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
 those from the community. This section is reserved for any notable project
-templates that haven't made that list.
+templates that haven't made that list._
 
 [⬆️ Back to top](#contents)
 
 ## Strategies and Algorithms
 
-This is not exhaustive--these topics are ones that members of the Battlesnake
-community have decided to share that they use for their snakes. Juicy secrets!
-
-See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically.
+> _This is not exhaustive--these topics are ones that members of the Battlesnake
+community have decided to share that they use for their snakes. Juicy secrets!_
+> 
+> _See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically._
 
 - [A\* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) - A graph traversal and path search algorithm
 - [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) - An algorithm that helps determine areas that are open/connected
