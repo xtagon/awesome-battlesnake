@@ -14,8 +14,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Game Rules and Logic](#game-rules-and-logic)
 - [Live Streamers](#live-streamers)
 - [Machine Learning and Data Science](#machine-learning-and-data-science)
-  - [Libaries](#libaries)
-  - [Articles](#articles)
 - [Starter Projects](#starter-projects)
 - [Strategies and Algorithms](#strategies-and-algorithms)
 - [Third-Party Tools](#third-party-tools)
