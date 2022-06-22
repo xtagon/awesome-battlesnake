@@ -6,6 +6,12 @@
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## Meaning of symbols
+
+🌟 - The project is recommended by the community
+
+🔨 - The project is actively maintained
+
 ## Contents
 
 
