@@ -71,7 +71,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) `Python` - BattleSnake AI server written in Python
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) `JavaScript` - Battlesnake 2019 AI written in NodeJS.
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) `Java` - Battlesnakes for 2018, 2019 and 2020
-- [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince9  (Editor's translation to English: "My battlesnake")
+- [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince  (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) `Elixir` - Battlesnake AI written in Elixir, 2019
 - [zacpez/scape-goat](https://github.com/zacpez/scape-goat) `Go` - Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) `Java` - Java BattleSnake
