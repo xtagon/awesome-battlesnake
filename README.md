@@ -99,7 +99,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [hughrawlinson/battlesnake](https://github.com/hughrawlinson/battlesnake) `TypeScript` - Typescript/Javascript project generator, wrapper library, types, and dev tools
 - [TheApX/battlesnake-engine-cpp](https://github.com/TheApX/battlesnake-engine-cpp) `C++` - Unofficial C++ implementation of BattleSnake rules and snake server
 - [TheMrSheldon/libsnake](https://github.com/TheMrSheldon/libsnake) `C++`- The aim of libsnake is to provide an intuitive and fast library for simulating snake games. C++
-- [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) `GO`- Experimental WebAssembly port of the Battlesnake rules
+- [xtagon/battlesnake-rules-wasm](https://github.com/xtagon/battlesnake-rules-wasm) `Go`- Experimental WebAssembly port of the Battlesnake rules
 - [xtagon/Snek](https://github.com/xtagon/snek) `Elixir` - Battlesnake-compatible rulesets and board positions in Elixir
 
 [⬆️ Back to top](#contents)
