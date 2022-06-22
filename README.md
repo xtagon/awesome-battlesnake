@@ -74,7 +74,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince9  (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) `Elixir` - Battlesnake AI written in Elixir, 2019
 - [zacpez/scape-goat](https://github.com/zacpez/scape-goat) `Go` - Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.
-- [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) `java` - Java BattleSnake
+- [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) `Java` - Java BattleSnake
 
 [⬆️ Back to top](#contents)
 
