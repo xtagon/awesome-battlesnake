@@ -156,7 +156,7 @@ community have decided to share that they use for their snakes. Juicy secrets!_
 - [BattlesnakeTester by niecore](https://github.com/niecore/BattlesnakeTester) - Smoke tests for Battlesnake behaviour
 - [Board Generator by lworkman, Nettogrof, EnderInvader](https://github.com/EnderInvader/battle-snake-board-generator) - A react-typescript app for Battlesnake board visualization, now with Arcade Maze support!
 - [Game Download CLI](https://github.com/TheApX/battlesnake-engine-cpp/tree/main/gamedownloader) - CLI tool to download battlesnake games in json format that can be sent directly to your battlesnake
-- [Game Download Extension for Chrome](https://github.com/cbinners/battlesnake-download-tool) - Chrome extension to download battlesnake games
+- [Game Download Extension for Chrome](https://github.com/EnderInvader/battlesnake-download-tool) - Chrome extension to download battlesnake games
 - [Game Download Extension for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/battlesnake-downloader/) - Firefox extension to download battlesnake games
 - [Game Simulator by penelopezone](https://github.com/penelopezone/battlesnake-game-types/) - A Rust crate to represent game types in the game of battlesnake
 - [Instant Observability Dashboard by New Relic](https://newrelic.com/instant-observability/battlesnake/63a65857-a25e-4654-9174-928e5894b3b9/) - A tool you can use to monitor your Battlesnake server, including ensuring your server is compliant with the game's server requirements and that your Battlesnake is set up for success!
