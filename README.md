@@ -12,7 +12,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Contents
 
-
 - [Battlesnakes](#battlesnakes)
 - [Developer Stories](#developer-stories)
 - [Game Rules and Logic](#game-rules-and-logic)
@@ -124,6 +123,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 - [ArthurFirmino/Gym-Battlesnake](https://github.com/ArthurFirmino/gym-battlesnake) `C++` - Multi-agent reinforcement learning environment
 - [Battlesnake Post Mortem by Asymptotic Labs](https://medium.com/asymptoticlabs/battlesnake-post-mortem-a5917f9a3428) - Using a desktop GPU to top the global arena in under a week
+- [DaBultz/pz-battlesnake](https://github.com/DaBultz/pz-battlesnake) `🔨 Go/Python` - PettingZoo/Gym Multi-Agent Environment For Battlesnake
 - [Exploring Data From Battlesnake Tournament Games](https://medium.com/battlesnake/exploring-battlesnake-game-data-4daa0d9fdd9) - Article exploring various stats across all games run during the 2019 Battlesnake Victoria Tournament
 - [NNUE-Pytorch](https://github.com/glinscott/nnue-pytorch/blob/master/docs/nnue.md) `Python` - "Efficiently Updatable Neural Network" explained in the context of chess
 - [Rainyforest/battlesnake_2020](https://github.com/Rainyforest/battlesnake_2020) `Python` - Simple environment for machine learning training, and A\* for food finding
