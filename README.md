@@ -140,7 +140,7 @@ templates that haven't made that list._
 > _This is not exhaustive--these topics are ones that members of the Battlesnake
 community have decided to share that they use for their snakes. Juicy secrets!_
 > 
-> _See also [Useful Algorithms](https://docs.battlesnake.com/references/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically._
+> _See also [Useful Algorithms](https://docs.battlesnake.com/guides/tips/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically._
 
 - [A\* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) - A graph traversal and path search algorithm
 - [Flood Fill](https://en.wikipedia.org/wiki/Flood_fill) - An algorithm that helps determine areas that are open/connected
