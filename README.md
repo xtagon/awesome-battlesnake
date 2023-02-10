@@ -2,12 +2,17 @@
 
 > A curated list of [Battlesnake](https://play.battlesnake.com/) resources
 
+# _MOVED_
+
+_NOTE_: This list is now officially hosted by Battlesnake, you can find its new home here: https://github.com/BattlesnakeOfficial/awesome-battlesnake
+
+You can still contribute if you follow that link. Huge thank you to everyone who has contributed!
+
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Contents
-
 
 - [Battlesnakes](#battlesnakes)
 - [Developer Stories](#developer-stories)
@@ -71,7 +76,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 - [tyrelh/battlesnake2018](https://github.com/tyrelh/battlesnake2018) `Python` - BattleSnake AI server written in Python
 - [tyrelh/battlesnake2019](https://github.com/tyrelh/battlesnake2019) `JavaScript` - Battlesnake 2019 AI written in NodeJS.
 - [woofers/battlesnake](https://github.com/woofers/battlesnake) `Java` - Battlesnakes for 2018, 2019 and 2020
-- [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince  (Editor's translation to English: "My battlesnake")
+- [Xe/since](https://github.com/Xe/since) `Nim` - .i le mi nundambysince (Editor's translation to English: "My battlesnake")
 - [xtagon/nagini](https://github.com/xtagon/nagini) `Elixir` - Battlesnake AI written in Elixir, 2019
 - [zacpez/scape-goat](https://github.com/zacpez/scape-goat) `Go` - Scape goat is a battle snake written in Go, and planned to be deployed on heroku when in battle.
 - [zakwht/battlesnake-2018](https://github.com/zakwht/battlesnake-2018) `Java` - Java BattleSnake
@@ -130,16 +135,16 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 ## Starter Projects
 
 > _Battlesnake has an [official list of starter projects](https://docs.battlesnake.com/references/starter-projects), including
-those from the community. This section is reserved for any notable project
-templates that haven't made that list._
+> those from the community. This section is reserved for any notable project
+> templates that haven't made that list._
 
 [⬆️ Back to top](#contents)
 
 ## Strategies and Algorithms
 
 > _This is not exhaustive--these topics are ones that members of the Battlesnake
-community have decided to share that they use for their snakes. Juicy secrets!_
-> 
+> community have decided to share that they use for their snakes. Juicy secrets!_
+>
 > _See also [Useful Algorithms](https://docs.battlesnake.com/guides/tips/useful-algorithms) from the official documentation, where folks are beginning to contribute more details on how these algorithms apply to Battlesnake specifically._
 
 - [A\* (A-star)](https://en.wikipedia.org/wiki/A*_search_algorithm) - A graph traversal and path search algorithm
